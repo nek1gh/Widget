@@ -2,7 +2,8 @@ Version 1.0.0
 -
 **Install libraries:**  
 [Google API Client](https://github.com/googleapis/google-api-python-client)  
-`pip install --upgrade google-api-python-client` 
+`pip install --upgrade google-api-python-client`  
+`pip install --upgrade oauth2client`
   
 Version 1.0.1
 -
@@ -17,3 +18,9 @@ Version 1.0.2
 *1. From number to date*  
 *2. Parse JSON status*  
 *3. Parse JSON leads*  
+
+Version 1.0.3
+-
+**Changes:**  
+*Minimum*  
+  
