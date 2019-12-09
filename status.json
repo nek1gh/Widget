@@ -1,0 +1,362 @@
+{
+  "_links": {
+    "self": {
+      "href": "\/api\/v2\/pipelines",
+      "method": "get"
+    }
+  },
+  "_embedded": {
+    "items": {
+      "2018959": {
+        "id": 2018959,
+        "name": "\u041e\u0431\u0449\u0430\u044f \u0412\u043e\u0440\u043e\u043d\u043a\u0430",
+        "sort": 1,
+        "is_main": true,
+        "statuses": {
+          "29642551": {
+            "id": 29642551,
+            "name": "\u041d\u0435\u0440\u0430\u0437\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435",
+            "color": "#c1c1c1",
+            "sort": 10,
+            "is_editable": false
+          },
+          "29642554": {
+            "id": 29642554,
+            "name": "\u041d\u043e\u0432\u0430\u044f \u0417\u0430\u044f\u0432\u043a\u0430",
+            "color": "#99ccff",
+            "sort": 20,
+            "is_editable": true
+          },
+          "29642557": {
+            "id": 29642557,
+            "name": "\u0420\u0435\u0439\u0441 \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d",
+            "color": "#ffff99",
+            "sort": 30,
+            "is_editable": true
+          },
+          "29642560": {
+            "id": 29642560,
+            "name": "\u0422\u043e\u0432\u0430\u0440 \u043e\u0442\u0433\u0440\u0443\u0436\u0435\u043d",
+            "color": "#ffcc66",
+            "sort": 40,
+            "is_editable": true
+          },
+          "30053989": {
+            "id": 30053989,
+            "name": "\u043d\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u043d\u0438\u0435 \u043a\u043b\u0438\u0435\u043d\u0442\u0443 \u043e\u0431 \u0441\u043b\u0435\u0434 \u043e\u043f\u043b\u0430\u0442\u0435",
+            "color": "#99ccff",
+            "sort": 50,
+            "is_editable": true
+          },
+          "29642563": {
+            "id": 29642563,
+            "name": "\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u044b",
+            "color": "#ff8f92",
+            "sort": 60,
+            "is_editable": true
+          },
+          "142": {
+            "id": 142,
+            "name": "\u0423\u0441\u043f\u0435\u0448\u043d\u043e \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+            "color": "#CCFF66",
+            "sort": 10000,
+            "is_editable": false
+          },
+          "143": {
+            "id": 143,
+            "name": "\u0417\u0430\u043a\u0440\u044b\u0442\u043e \u0438 \u043d\u0435 \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+            "color": "#D5D8DB",
+            "sort": 11000,
+            "is_editable": false
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/api\/v2\/pipelines?id=2018959",
+            "method": "get"
+          }
+        }
+      },
+      "2065366": {
+        "id": 2065366,
+        "name": "\u041e\u0440\u0441\u043a",
+        "sort": 2,
+        "is_main": false,
+        "statuses": {
+          "29958427": {
+            "id": 29958427,
+            "name": "\u041d\u0435\u0440\u0430\u0437\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435",
+            "color": "#c1c1c1",
+            "sort": 10,
+            "is_editable": false
+          },
+          "29958430": {
+            "id": 29958430,
+            "name": "\u041f\u0435\u0440\u0432\u0438\u0447\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442",
+            "color": "#99ccff",
+            "sort": 20,
+            "is_editable": true
+          },
+          "29958433": {
+            "id": 29958433,
+            "name": "\u041f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u044b",
+            "color": "#ffff99",
+            "sort": 30,
+            "is_editable": true
+          },
+          "29958436": {
+            "id": 29958436,
+            "name": "\u041f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442 \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+            "color": "#ffcc66",
+            "sort": 40,
+            "is_editable": true
+          },
+          "142": {
+            "id": 142,
+            "name": "\u0423\u0441\u043f\u0435\u0448\u043d\u043e \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+            "color": "#CCFF66",
+            "sort": 10000,
+            "is_editable": false
+          },
+          "143": {
+            "id": 143,
+            "name": "\u0417\u0430\u043a\u0440\u044b\u0442\u043e \u0438 \u043d\u0435 \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+            "color": "#D5D8DB",
+            "sort": 11000,
+            "is_editable": false
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/api\/v2\/pipelines?id=2065366",
+            "method": "get"
+          }
+        }
+      },
+      "2065369": {
+        "id": 2065369,
+        "name": "\u041d\u043e\u0432\u043e\u0442\u0440\u043e\u0438\u0446\u043a",
+        "sort": 3,
+        "is_main": false,
+        "statuses": {
+          "29958439": {
+            "id": 29958439,
+            "name": "\u041d\u0435\u0440\u0430\u0437\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435",
+            "color": "#c1c1c1",
+            "sort": 10,
+            "is_editable": false
+          },
+          "29958442": {
+            "id": 29958442,
+            "name": "\u041f\u0435\u0440\u0432\u0438\u0447\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442",
+            "color": "#99ccff",
+            "sort": 20,
+            "is_editable": true
+          },
+          "29958445": {
+            "id": 29958445,
+            "name": "\u041f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u044b",
+            "color": "#ffff99",
+            "sort": 30,
+            "is_editable": true
+          },
+          "29958448": {
+            "id": 29958448,
+            "name": "\u041f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442 \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+            "color": "#ffcc66",
+            "sort": 40,
+            "is_editable": true
+          },
+          "142": {
+            "id": 142,
+            "name": "\u0423\u0441\u043f\u0435\u0448\u043d\u043e \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+            "color": "#CCFF66",
+            "sort": 10000,
+            "is_editable": false
+          },
+          "143": {
+            "id": 143,
+            "name": "\u0417\u0430\u043a\u0440\u044b\u0442\u043e \u0438 \u043d\u0435 \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+            "color": "#D5D8DB",
+            "sort": 11000,
+            "is_editable": false
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/api\/v2\/pipelines?id=2065369",
+            "method": "get"
+          }
+        }
+      },
+      "2065372": {
+        "id": 2065372,
+        "name": "\u0413\u0430\u0439",
+        "sort": 4,
+        "is_main": false,
+        "statuses": {
+          "29958451": {
+            "id": 29958451,
+            "name": "\u041d\u0435\u0440\u0430\u0437\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435",
+            "color": "#c1c1c1",
+            "sort": 10,
+            "is_editable": false
+          },
+          "29958454": {
+            "id": 29958454,
+            "name": "\u041f\u0435\u0440\u0432\u0438\u0447\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442",
+            "color": "#99ccff",
+            "sort": 20,
+            "is_editable": true
+          },
+          "29958457": {
+            "id": 29958457,
+            "name": "\u041f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u044b",
+            "color": "#ffff99",
+            "sort": 30,
+            "is_editable": true
+          },
+          "29958460": {
+            "id": 29958460,
+            "name": "\u041f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442 \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+            "color": "#ffcc66",
+            "sort": 40,
+            "is_editable": true
+          },
+          "142": {
+            "id": 142,
+            "name": "\u0423\u0441\u043f\u0435\u0448\u043d\u043e \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+            "color": "#CCFF66",
+            "sort": 10000,
+            "is_editable": false
+          },
+          "143": {
+            "id": 143,
+            "name": "\u0417\u0430\u043a\u0440\u044b\u0442\u043e \u0438 \u043d\u0435 \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+            "color": "#D5D8DB",
+            "sort": 11000,
+            "is_editable": false
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/api\/v2\/pipelines?id=2065372",
+            "method": "get"
+          }
+        }
+      },
+      "2065375": {
+        "id": 2065375,
+        "name": "\u041d\u043e\u0432\u043e\u043e\u0440\u0441\u043a",
+        "sort": 5,
+        "is_main": false,
+        "statuses": {
+          "29958466": {
+            "id": 29958466,
+            "name": "\u041d\u0435\u0440\u0430\u0437\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435",
+            "color": "#c1c1c1",
+            "sort": 10,
+            "is_editable": false
+          },
+          "29958469": {
+            "id": 29958469,
+            "name": "\u041f\u0435\u0440\u0432\u0438\u0447\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442",
+            "color": "#99ccff",
+            "sort": 20,
+            "is_editable": true
+          },
+          "29958472": {
+            "id": 29958472,
+            "name": "\u041f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u044b",
+            "color": "#ffff99",
+            "sort": 30,
+            "is_editable": true
+          },
+          "29958475": {
+            "id": 29958475,
+            "name": "\u041f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442 \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+            "color": "#ffcc66",
+            "sort": 40,
+            "is_editable": true
+          },
+          "142": {
+            "id": 142,
+            "name": "\u0423\u0441\u043f\u0435\u0448\u043d\u043e \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+            "color": "#CCFF66",
+            "sort": 10000,
+            "is_editable": false
+          },
+          "143": {
+            "id": 143,
+            "name": "\u0417\u0430\u043a\u0440\u044b\u0442\u043e \u0438 \u043d\u0435 \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+            "color": "#D5D8DB",
+            "sort": 11000,
+            "is_editable": false
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/api\/v2\/pipelines?id=2065375",
+            "method": "get"
+          }
+        }
+      },
+      "2065378": {
+        "id": 2065378,
+        "name": "\u041e\u043f\u0442\u043e\u0432\u0438\u043a\u0438",
+        "sort": 6,
+        "is_main": false,
+        "statuses": {
+          "29958478": {
+            "id": 29958478,
+            "name": "\u041d\u0435\u0440\u0430\u0437\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435",
+            "color": "#c1c1c1",
+            "sort": 10,
+            "is_editable": false
+          },
+          "29958481": {
+            "id": 29958481,
+            "name": "\u041f\u0435\u0440\u0432\u0438\u0447\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442",
+            "color": "#99ccff",
+            "sort": 20,
+            "is_editable": true
+          },
+          "29958484": {
+            "id": 29958484,
+            "name": "\u041f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u044b",
+            "color": "#ffff99",
+            "sort": 30,
+            "is_editable": true
+          },
+          "29958487": {
+            "id": 29958487,
+            "name": "\u041f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442 \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+            "color": "#ffcc66",
+            "sort": 40,
+            "is_editable": true
+          },
+          "142": {
+            "id": 142,
+            "name": "\u0423\u0441\u043f\u0435\u0448\u043d\u043e \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+            "color": "#CCFF66",
+            "sort": 10000,
+            "is_editable": false
+          },
+          "143": {
+            "id": 143,
+            "name": "\u0417\u0430\u043a\u0440\u044b\u0442\u043e \u0438 \u043d\u0435 \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+            "color": "#D5D8DB",
+            "sort": 11000,
+            "is_editable": false
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "\/api\/v2\/pipelines?id=2065378",
+            "method": "get"
+          }
+        }
+      }
+    }
+  }
+}
